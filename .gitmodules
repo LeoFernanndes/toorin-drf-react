@@ -1,0 +1,6 @@
+[submodule "toorin-api"]
+	path = toorin-api
+	url = git@github.com:LeoFernanndes/toorin-api.git
+[submodule "toorin-frontend"]
+	path = toorin-frontend
+	url = git@github.com:LeoFernanndes/toorin-frontend.git
